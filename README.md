@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.http3check.net/?host=hongbomiao.com"><img alt="HTTP/3" src="https://img.shields.io/badge/http%2F3-enabled-brightgreen" /></a>
+  <a href="https://www.http3check.net/?host=hongbomiao.com"><img alt="HTTP/3" src="https://img.shields.io/badge/http%2F3-supported-brightgreen" /></a>
   <a href="https://hstspreload.org/?domain=hongbomiao.com"><img alt="Chromium HSTS preload" src="https://img.shields.io/hsts/preload/hongbomiao.com" /></a>
   <a href="https://observatory.mozilla.org/analyze/hongbomiao.com"><img alt="Mozilla Observatory grade" src="https://img.shields.io/mozilla-observatory/grade/hongbomiao.com" /></a>
   <a href="https://app.codacy.com/app/hongbo-miao/hongbomiao.com"><img alt="Codacy grade" src="https://img.shields.io/codacy/grade/dc922acc14014b4abc978afd0810e56b" /></a>
