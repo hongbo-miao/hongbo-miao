@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.hongbomiao.com"><img width="100" src="https://user-images.githubusercontent.com/3375461/90245344-1397cc80-de65-11ea-82d2-b7ebbe8948c8.png" alt="Lightning" /></a>
+  <a href="https://www.hongbomiao.com"><img width="100" src="https://user-images.githubusercontent.com/3375461/93688946-821f1880-fafc-11ea-8918-374f21f4ac6e.png" alt="Lightning" /></a>
 </p>
 
 <h2 align="center">
@@ -23,8 +23,8 @@
 
 <p align="center">
   <a href="https://www.http3check.net/?host=hongbomiao.com"><img alt="HTTP/3" src="https://img.shields.io/badge/http%2F3-supported-brightgreen" /></a>
-  <a href="https://hstspreload.org/?domain=hongbomiao.com"><img alt="Chromium HSTS preload" src="https://img.shields.io/hsts/preload/hongbomiao.com" /></a>
-  <a href="https://observatory.mozilla.org/analyze/hongbomiao.com"><img alt="Mozilla Observatory grade" src="https://img.shields.io/mozilla-observatory/grade/hongbomiao.com" /></a>
+  <a href="https://hstspreload.org/?domain=www.hongbomiao.com"><img alt="Chromium HSTS preload" src="https://img.shields.io/hsts/preload/www.hongbomiao.com" /></a>
+  <a href="https://observatory.mozilla.org/analyze/www.hongbomiao.com"><img alt="Mozilla Observatory grade" src="https://img.shields.io/mozilla-observatory/grade/www.hongbomiao.com" /></a>
   <a href="https://app.codacy.com/app/Hongbo-Miao/hongbomiao.com"><img alt="Codacy grade" src="https://img.shields.io/codacy/grade/dc922acc14014b4abc978afd0810e56b" /></a>
   <a href="https://codeclimate.com/github/Hongbo-Miao/hongbomiao.com/maintainability"><img alt="Code Climate maintainability" src="https://img.shields.io/codeclimate/maintainability/Hongbo-Miao/hongbomiao.com" /></a>
   <a href="https://snyk.io/test/github/Hongbo-Miao/hongbomiao.com"><img alt="Snyk vulnerabilities" src="https://img.shields.io/snyk/vulnerabilities/github/Hongbo-Miao/hongbomiao.com" /></a>
