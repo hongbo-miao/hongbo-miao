@@ -54,3 +54,6 @@
 <p align="center">
   <a href="https://www.hongbomiao.com">hongbomiao.com</a>
 </p>
+
+[![hongbomiao.com record](https://user-images.githubusercontent.com/3375461/100162554-deccf400-2eee-11eb-89b4-49cd6c23026d.gif)](https://www.hongbomiao.com)
+[![Architecture](https://docs.google.com/drawings/d/e/2PACX-1vQBehFA0r7QnSBUtAe9kplicXd6i7u5dmi8wchSJZFFEmcRaPqmD0GQ0FFx4zF7Vhkfi9fbO_rBsTh2/pub?w=2424&amp;h=3131)](https://github.com/Hongbo-Miao/hongbomiao.com)
