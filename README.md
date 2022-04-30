@@ -55,4 +55,4 @@
   <a href="https://www.hongbomiao.com">hongbomiao.com</a>
 </p>
 
-[![Architecture](https://user-images.githubusercontent.com/3375461/166099571-e88d3c8f-a110-4d5d-8dec-633ad68371c8.png)](https://github.com/Hongbo-Miao/hongbomiao.com)
+[![Architecture](https://user-images.githubusercontent.com/3375461/166099999-3c341c7c-17fb-4647-b98d-47fb75b7a3ad.png)](https://github.com/Hongbo-Miao/hongbomiao.com)
