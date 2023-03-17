@@ -1,3 +1,3 @@
 This diagram shows the architecture of [this repository](https://github.com/Hongbo-Miao/hongbomiao.com). Happy exchanging!
 
-[![Architecture](https://user-images.githubusercontent.com/3375461/225521531-85141ef2-ea5d-48a7-bb4b-81f744a442bd.svg)](https://github.com/Hongbo-Miao/hongbomiao.com)
+[![Architecture](https://user-images.githubusercontent.com/3375461/225780644-075060f4-1fe8-491c-ad32-6eec8f7e2826.svg)](https://github.com/Hongbo-Miao/hongbomiao.com)
