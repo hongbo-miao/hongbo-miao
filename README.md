@@ -2,4 +2,4 @@ This diagram shows the architecture of my personal R&D (research and development
 
 (The diagram here may take a moment to load. Please wait patiently.)
 
-![Architecture](https://github.com/Hongbo-Miao/hongbomiao.com/assets/3375461/996494c2-2510-44c0-b6a1-09694f8e108f)
+![Architecture](https://github.com/Hongbo-Miao/hongbomiao.com/assets/3375461/9c33b5e2-d9bb-4315-83a5-324847e73041)
