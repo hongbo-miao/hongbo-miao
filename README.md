@@ -1,4 +1,4 @@
-This diagram shows the architecture of my personal R&D (research and development) lab, which is housed in [this repository](https://github.com/Hongbo-Miao/hongbomiao.com). Happy exchanging!
+This diagram shows the architecture of a personal R&D lab that facilitates knowledge sharing. The lab is housed in this repository [this repository](https://github.com/Hongbo-Miao/hongbomiao.com).
 
 (The diagram here may take a moment to load. Please wait patiently.)
 
