@@ -3,4 +3,4 @@ This diagram shows the architecture of a personal research and development (R&D)
 > [!NOTE]
 > The diagram here may take a moment to load. Please wait patiently.
 
-![Architecture](https://github.com/user-attachments/assets/27fe5066-d700-4e8e-b2bd-d123de320e50)
+![Architecture](https://github.com/user-attachments/assets/8a0f2f0a-ce62-4814-ba06-904aca25d121)
